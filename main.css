@@ -1,0 +1,26 @@
+
+#search-results-container {
+    position: absolute;
+    top: 33px;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    border: 1px solid #000;
+}
+
+#search-container {
+    position: relative;
+}
+
+.list-clean {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+body {
+    width:100%;
+    background-image:url("img/cloudy_sky_background_by_goblinengineer-d5obh26.png");
+    background-repeat: no-repeat;
+}
